@@ -1,7 +1,0 @@
-pymongo
-rich
-fastapi
-uvicorn
-gunicorn
-pillow
-io
